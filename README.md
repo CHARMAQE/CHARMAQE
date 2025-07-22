@@ -21,35 +21,52 @@
  
 ## ♨️ Programming Languages:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,c" />
+    <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,cpp,dart,php,r,html,css,sql" />
+    <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="45px" height="45px"/>
+    <img src="https://www.vectorlogo.zone/logos/latex-project/latex-project-icon.svg" width="45px" height="45px"/>
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
 </div>
 
-## 🌐 Web Technologies:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,spring" />
-</div>
+---
 
 ## 💡 Frameworks & Libraries:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=spring,docker" />
+    <img src="https://skillicons.dev/icons?i=spring,flask,express,react,nextjs,docker" />
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="45px" height="45px"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="45px" height="45px"/>
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45px" height="45px"/>
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45px" height="45px"/>
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45px" height="45px"/>
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="45px" height="45px"/>
 </div>
+
+---
 
 ## 🛢️ Databases & Big Data:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="45px" height="45px"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="45px" height="45px"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45px" height="45px"/>
 </div>
 
-## 🛠️ Tools:
+---
+
+## ⚙️ Build Tools & Package Managers:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=maven,npm,yarn" />
+    <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" width="45px" height="45px"/>
 </div>
+
+---
+
+## 🛠️ Tools & IDEs:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,eclipse,idea,postman" />
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="45px" height="45px"/>
+</div>
+
 
 <hr/>
 
@@ -59,7 +76,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=CHARMAQE&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=CHARMAQE&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=CHARMAQE&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHARMAQE&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
