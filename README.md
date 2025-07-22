@@ -4,64 +4,63 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+HAMZA+Muniz!;" />
 </h1>
 
-<h3 align="center">Big Data & IoT Master's Student | Passionate about Data Engineering 🚀</h3>
+<h3 align="center">I'm a Big Data & IoT Master's Student | Passionate about Data Engineering 🚀</h3>
 
 <br/>
 
 <div align="center">
- 
- 🎓 I'm currently a **Master's student in Big Data & IoT**
 
  💻 Passionate about **Data Engineering & Big Data Technologies**
 
- 🌱 Currently learning **Docker, Kafka, Spark, Cloud Technologies**
+ 🌱 Currently learning **Machine Learning,BIG DATA **
 
  💬 Ask me about **Python, Data Analysis, Machine Learning, Big Data, Java, Spring Boot**
 
- 📈 Always exploring new tools and frameworks in the data world
 
  </div>
  
-<div align="center"> 
-  <a href="mailto:charmaqe4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/hamza-charmaqe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/CHARMAQE" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+## ♨️ Programming Languages:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,c" />
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+## 🌐 Web Technologies:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,spring" />
 </div>
+
+## 💡 Frameworks & Libraries:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=spring,docker" />
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="45px" height="45px"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45px" height="45px"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45px" height="45px"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45px" height="45px"/>
+</div>
+
+## 🛢️ Databases & Big Data:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="45px" height="45px"/>
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45px" height="45px"/>
+</div>
+
+## 🛠️ Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,postman" /><br>
+</div>
+
+<hr/>
 
 <br/>
 <hr/>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CHARMAQE/CHARMAQE/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-CHARMAQE.vercel.app/?user=CHARMAQE&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-CHARMAQE.vercel.app/api?username=CHARMAQE&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=CHARMAQE&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=CHARMAQE&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-CHARMAQE.vercel.app/api/top-langs/?username=CHARMAQE&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHARMAQE&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
-
