@@ -6,7 +6,12 @@
 
 <h3 align="center">I'm a Big Data & IoT Master's Student | Passionate about Data Engineering 🚀</h3>
 
-<br/>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 
 <div align="center">
 
@@ -18,29 +23,46 @@
 
 
  </div>
- 
+
+
+ <br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+<br>
+
 ## ♨️ Programming Languages:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,cpp,dart,php,r,html,css,sql" />
+    <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,cpp,dart,php,r,html,css" />
     <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="45px" height="45px"/>
-    <img src="https://www.vectorlogo.zone/logos/latex-project/latex-project-icon.svg" width="45px" height="45px"/>
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
 </div>
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+<br>
+
 
 ## 💡 Frameworks & Libraries:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=spring,flask,express,react,nextjs,docker" />
+    <img src="https://skillicons.dev/icons?i=spring,flask,,docker" />
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="45px" height="45px"/>
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="45px" height="45px"/>
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45px" height="45px"/>
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45px" height="45px"/>
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45px" height="45px"/>
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="45px" height="45px"/>
 </div>
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+<br>
+
 
 ## 🛢️ Databases & Big Data:
 <div align="center">
@@ -48,18 +70,28 @@
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="45px" height="45px"/>
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="45px" height="45px"/>
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45px" height="45px"/>
 </div>
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+<br>
+
 
 ## ⚙️ Build Tools & Package Managers:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=maven,npm,yarn" />
-    <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" width="45px" height="45px"/>
 </div>
 
----
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+<br>
+
 
 ## 🛠️ Tools & IDEs:
 <div align="center">
@@ -68,10 +100,13 @@
 </div>
 
 
-<hr/>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+<br>
 
-<br/>
-<hr/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
