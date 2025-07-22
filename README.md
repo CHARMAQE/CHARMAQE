@@ -1,36 +1,24 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CHARMAQE.CHARMAQE" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+HAMZA+Muniz!;" />
 </h1>
-
 <h3 align="center">I'm a Big Data & IoT Master's Student | Passionate about Data Engineering 🚀</h3>
 
+
 <br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
 <br>
 
 
 <div align="center">
-
- 💻 Passionate about **Data Engineering & Big Data Technologies**
-
- 🌱 Currently learning **Machine Learning,BIG DATA **
+ 💻  Currently learning **Machine Learning,BIG DATA **
 
  💬 Ask me about **Python, Data Analysis, Machine Learning, Big Data, Java, Spring Boot**
-
-
  </div>
 
 
- <br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
 <br>
 <br>
+
 
 ## ♨️ Programming Languages:
 <div align="center">
@@ -39,10 +27,7 @@
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
 </div>
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
+
 <br>
 <br>
 
@@ -56,10 +41,7 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45px" height="45px"/>
 </div>
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
+
 <br>
 <br>
 
@@ -72,10 +54,7 @@
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="45px" height="45px"/>
 </div>
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
+
 <br>
 <br>
 
@@ -85,10 +64,7 @@
     <img src="https://skillicons.dev/icons?i=maven,npm,yarn" />
 </div>
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
+
 <br>
 <br>
 
